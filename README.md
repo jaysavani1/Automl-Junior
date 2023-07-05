@@ -5,6 +5,7 @@ Are you eager to leverage the power of machine learning but don't have coding ex
 
 ### Key Features:
 - [x] Intuitive Drag-and-Drop Interface
+- [x] Default sample datasets
 - [x] Exploratory Data Analysis
 - [x] Automated Data Preprocessing
 - [x] Pre-built Model Templates
@@ -17,14 +18,16 @@ Are you eager to leverage the power of machine learning but don't have coding ex
 - [x] Time Series
 - [x] Anomaly detection
 
-### TO DO:
+### TO DO - [Verion 0.1.1]:
 - [ ] Add interactive 2D, 3D viasualisation plots
-- [ ] Add model pipeline visualisations
+- [x] Add model pipeline visualisations
 - [ ] Add hyperparameter tuning option for each models
 - [ ] Add model deployment functionality
-- [ ] Bug fixes for Time series and Anomaly Detections modules
+- [x] Bug fixes for Time series and Anomaly Detections modules
+- [x] Partial Documentation
+- [x] Tutorials 
 
-### Version 0.1.0:
+### Version 0.1.0: Tutorial - Classification Task
 ![](https://github.com/jaysavani1/Automl-Junior/blob/main/assets/Automl%20Junior%20Platform.gif)
 
 ### NOTE
