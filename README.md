@@ -3,6 +3,9 @@ Introducing Zero Code or No Code ML Platform: Accelerate Machine Learning withou
 
 Are you eager to leverage the power of machine learning but don't have coding expertise? Look no further than revolutionary Zero Code ML Platform. With AutoML Junior, you can effortlessly build and deploy machine learning models without writing a single line of code from on your local system. Whether you're a business professional, domain expert, or beginner in the field of data science, this platform empowers you to unlock the potential of ML without the need for programming skills.
 
+### Version 0.1.0: Tutorial - Classification Task
+![](https://github.com/jaysavani1/Automl-Junior/blob/main/assets/Automl%20Junior%20Platform.gif)
+
 ### Key Features:
 - [x] Intuitive Drag-and-Drop Interface
 - [x] Default sample datasets
@@ -26,9 +29,6 @@ Are you eager to leverage the power of machine learning but don't have coding ex
 - [x] Bug fixes for Time series and Anomaly Detections modules
 - [x] Partial Documentation
 - [x] Tutorials 
-
-### Version 0.1.0: Tutorial - Classification Task
-![](https://github.com/jaysavani1/Automl-Junior/blob/main/assets/Automl%20Junior%20Platform.gif)
 
 ### NOTE
 - Created by: [@jaysavani1](https://www.github.com/jaysavani1)
